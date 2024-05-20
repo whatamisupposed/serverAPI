@@ -1,0 +1,15 @@
+{
+    "name": "card-game-api",
+    "version": "1.0.0",
+    "description": "API server for a fictional collectible card game",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "body-parser": "^1.19.0",
+      "dotenv": "^10.0.0",
+      "express": "^4.17.1",
+      "jsonwebtoken": "^8.5.1"
+    }
+  }
